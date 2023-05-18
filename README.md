@@ -1,5 +1,7 @@
 # Drum-Kit-JS
-Drum kit project made in javaScript
+Drum kit project made with help of javaScript,
+either press the buttons which are on the screen or press the specific key which is shown on page
+like w or s or a or d & so on..
 
 **Live Link**:
 https://viveknikate.github.io/Drum-Kit-JS/
